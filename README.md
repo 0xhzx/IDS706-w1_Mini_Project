@@ -1,7 +1,7 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
 ## Template for Python projects 
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+Requirements: Demo - Create a Python GitHub template you use for the rest of class (.devcontainer, Makefile, GitHub Actions, requirements.txt, README.md)
 
 Things included are:
 
@@ -23,3 +23,5 @@ Things included are:
 
 * `githubactions` 
 
+## Reference
+* [python-template by Noah Gift](https://github.com/nogibjj/python-template/tree/main)
