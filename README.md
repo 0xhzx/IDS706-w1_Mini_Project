@@ -13,8 +13,8 @@ Things included are:
     - Linting and code quality [pylint, flake8, or black]
     - Cleaning and maintenance
 * `Pytest`
-    - just need to run `pytest` in the terminal
-    - a more effective method run `make test`
+    - Just need to run `pytest` in the terminal
+    - A more effective method run `make test`
 
 * `pandas`
 
