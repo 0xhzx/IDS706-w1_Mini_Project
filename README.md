@@ -6,8 +6,14 @@ Requirements: Demo - Create a Python GitHub template you use for the rest of cla
 Things included are:
 
 * `Makefile`
-
+    - Dependency management
+    - Automated build process
+    - Testing
+    - Linting and code quality [pylint, flake8, or black]
+    - Cleaning and maintenance
 * `Pytest`
+    - just need to run `pytest` in the terminal
+    - a more effective method run `make test`
 
 * `pandas`
 
